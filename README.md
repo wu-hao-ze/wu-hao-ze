@@ -1,5 +1,6 @@
 ### Hi there 👋, I am a 2020 undergraduate in Software Engineering from Tongji University, specializing in web front-end.
-https://github-readme-stats.vercel.app/api?username=wu-hao-ze
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu-hao-ze)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu-hao-ze&show_icons=true&theme=radical)
 <!--
 **wu-hao-ze/wu-hao-ze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

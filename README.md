@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu-hao-ze&show_icons=true&theme=radical)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wu-hao-ze&repo=All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wu-hao-ze&layout=donut&exclude_repo=All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University,Tower-Defense-Project-Unity5.5,Shen-Jian-high-level-programming-language-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wu-hao-ze&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wu-hao-ze/wu-hao-ze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

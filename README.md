@@ -1,4 +1,4 @@
-### Hi there 👋, I am a 2020 undergraduate in Software Engineering from Tongji University, specializing in web front-end.
+### Hi there 👋, I am a 2020 undergraduate in Software Engineering from Tongji University, specializing in front-end.
 ### QQ: 3367403241
 ### VX: wu-hao-ze
 ### If you have any questions about web front-end or software engineering at Tongji University, you can contact me.

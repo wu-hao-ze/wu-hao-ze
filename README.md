@@ -1,7 +1,7 @@
 ### Hi there 👋, I am a 2020 undergraduate in Software Engineering from Tongji University, specializing in front-end.
 ### QQ: 3367403241
 ### VX: wu-hao-ze
-### If you have any questions about web front-end or software engineering at Tongji University, you can contact me.
+### If you have any questions about front-end or software engineering at Tongji University, you can contact me.
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu-hao-ze&PAT_1&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&show_icons=true&theme=radical)-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wu-hao-ze&repo=All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wu-hao-ze&PAT_1&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&layout=donut&exclude_repo=All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University,Tower-Defense-Project-Unity5.5,Shen-Jian-high-level-programming-language-Programming)](https://github.com/anuraghazra/github-readme-stats)-->
